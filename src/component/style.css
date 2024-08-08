@@ -1,0 +1,73 @@
+.background_style {
+  background-color: none;
+  color: white;
+  border-radius: 10px;
+  border: 1px solid rgb(252, 252, 252);
+}
+
+.topHead {
+  font-family: "Georgia", serif;
+  font-size: 1.75em;
+  font-weight: bold;
+  color: #a4a95b;
+  text-transform: capitalize;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #9f8a25;
+  padding-bottom: 5px;
+  display: inline-block;
+}
+
+.container {
+  background-color: transparent;
+}
+.card-custom {
+  margin-bottom: 20px !important;
+  height: 86% !important;
+}
+.scrollset {
+  max-height: 89vh;
+  overflow: auto;
+}
+.bagcolor {
+  background: linear-gradient(to right, #8498e5, #f67bfe);
+
+  padding-top: 6px;
+  padding-bottom: 6px;
+  height: 706px;
+}
+
+.content_style {
+  font-family: "Georgia", serif;
+  font-size: 1.75em;
+  font-weight: bold;
+  color: #000000;
+  text-transform: capitalize;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #9f8a25;
+  padding: 15px;
+  display: inline-block;
+}
+
+.nav-link.active {
+  color: #fff !important;
+  background-color: #5687bf !important;
+  border-radius: 4px;
+}
+.nav-link.active:hover {
+  background-color: #007bff !important;
+}
+.nav-link {
+  color: #fdfdfd !important;
+  transition: background-color 0.3s ease;
+}
+
+.nav-link:hover {
+  background-color: #615f5f;
+  border-radius: 4px;
+}
+
+.navBar_color {
+  color: white;
+  background-color: rgb(24, 9, 49);
+  border: 1px solid darkgrey;
+}
